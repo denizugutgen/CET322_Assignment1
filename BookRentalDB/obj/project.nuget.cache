@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHv21uYrtyTiy+eH7x22QvEgyyuXjruVpcJz2ZlIlSZx9IvARBJkRJLS74g/xbdrjmNlzwhsOjLCp9EkOQrjpA==",
+  "dgSpecHash": "6gAofKTFaz/KS7VLBak+DEFG5BezMoGfU6991II1u/IKJ2hhB4rhbKMzVx+5KFhXCSE3J9HbnmKWgEanTTAw9A==",
   "success": true,
-  "projectFilePath": "/Users/denizugutgen/Desktop/CET322_2025/BookRentalDB/BookRentalDB/BookRentalDB.csproj",
+  "projectFilePath": "/Users/denizugutgen/Desktop/CET322_ASS1/CET322_Assignment1/BookRentalDB/BookRentalDB.csproj",
   "expectedPackageFiles": [
     "/Users/denizugutgen/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/denizugutgen/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.2/microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",

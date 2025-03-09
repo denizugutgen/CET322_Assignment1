@@ -62,7 +62,8 @@ public class StudentController : Controller
     {
         if (ModelState.IsValid)
         {
-            StudentRepository.Update(student); 
+            StudentRepository repository = new StudentRepository();
+            repository.Update(student); 
             return RedirectToAction("Index");
         }
 

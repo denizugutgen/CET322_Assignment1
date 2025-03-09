@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/denizugutgen/Desktop/CET322_2025/BookRentalDB/BookRentalDB/BookRentalDB.csproj": {}
+    "/Users/denizugutgen/Desktop/CET322_ASS1/CET322_Assignment1/BookRentalDB/BookRentalDB.csproj": {}
   },
   "projects": {
-    "/Users/denizugutgen/Desktop/CET322_2025/BookRentalDB/BookRentalDB/BookRentalDB.csproj": {
+    "/Users/denizugutgen/Desktop/CET322_ASS1/CET322_Assignment1/BookRentalDB/BookRentalDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/denizugutgen/Desktop/CET322_2025/BookRentalDB/BookRentalDB/BookRentalDB.csproj",
+        "projectUniqueName": "/Users/denizugutgen/Desktop/CET322_ASS1/CET322_Assignment1/BookRentalDB/BookRentalDB.csproj",
         "projectName": "BookRentalDB",
-        "projectPath": "/Users/denizugutgen/Desktop/CET322_2025/BookRentalDB/BookRentalDB/BookRentalDB.csproj",
+        "projectPath": "/Users/denizugutgen/Desktop/CET322_ASS1/CET322_Assignment1/BookRentalDB/BookRentalDB.csproj",
         "packagesPath": "/Users/denizugutgen/.nuget/packages/",
-        "outputPath": "/Users/denizugutgen/Desktop/CET322_2025/BookRentalDB/BookRentalDB/obj/",
+        "outputPath": "/Users/denizugutgen/Desktop/CET322_ASS1/CET322_Assignment1/BookRentalDB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/denizugutgen/.nuget/NuGet/NuGet.Config"
