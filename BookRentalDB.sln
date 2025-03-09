@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRentalDB", "BookRentalDB\BookRentalDB.csproj", "{029B9B4E-E348-4C58-BE2E-A01C4BC1D213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StudentRepository", "StudentRepository", "{1F6983BC-3F3B-49F2-B78D-86075F7B736C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029B9B4E-E348-4C58-BE2E-A01C4BC1D213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029B9B4E-E348-4C58-BE2E-A01C4BC1D213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029B9B4E-E348-4C58-BE2E-A01C4BC1D213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029B9B4E-E348-4C58-BE2E-A01C4BC1D213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
